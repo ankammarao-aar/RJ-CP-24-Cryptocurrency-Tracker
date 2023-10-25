@@ -1,0 +1,39 @@
+.list-item-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-container {
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  height: 18px;
+}
+
+.text {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #ffffff;
+  padding-left: 12px;
+}
+
+.values-card {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.usd-values {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #ffffff;
+  width: 62px;
+  padding-right: 10px;
+}
+
+.values {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #ffffff;
+}

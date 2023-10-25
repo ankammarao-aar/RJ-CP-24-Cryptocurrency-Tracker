@@ -1,0 +1,62 @@
+.bg-list-container {
+  display: flex;
+  flex-direction: column;
+  padding: 22px;
+}
+
+.loader-card {
+  display: flex;
+  justify-content: center;
+  margin: 50%;
+}
+
+.crypto-list-container {
+  display: flex;
+  flex-direction: column;
+  padding: 22px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #00e7ff;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.main-card {
+  border: 3px solid #00e7ff;
+  border-radius: 6px;
+  margin: 26px;
+}
+
+.list-item-card {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.usd-card {
+  display: flex;
+  justify-content: space-around;
+}
+
+.coin-type {
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.colum-name {
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-left: 22px;
+}
+
+.list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  margin: 0px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
